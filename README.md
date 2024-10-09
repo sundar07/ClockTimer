@@ -1,6 +1,6 @@
 # ClockTimer
 
-This repository contains image analysis codes for segmenting single cells from brightfield images
+This repository contains image analysis codes for segmenting single cells from brightfield images. This code has been used in the article "Cell-autonomous timing drives the vertebrate segmentation clock’s wave pattern" by [Rohde L.A. et al., 2024] DOI: https://doi.org/10.7554/eLife.93764.2
 
 
 1. Segment_cells_bright_field.m
